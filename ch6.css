@@ -1,0 +1,29 @@
+/* .heading-class {
+    background-color: aqua;
+    color: blue;
+}
+
+body{
+    background-color: pink;
+    
+}
+
+button{
+    background-color: blueviolet;
+    color: white;
+} */
+
+
+/* /////////////////////////////////////// */
+/* prac que... */
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    border-color: black;
+    background-color: palevioletred;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
